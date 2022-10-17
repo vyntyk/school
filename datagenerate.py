@@ -1,13 +1,12 @@
 import random
+import csv
+import logger as lg
 
-#import csv
-#import logger as lg
 
 file = open('base_phone.csv', 'w')
 newrecord = "ID,Name,Surname,BirthDay,PhoneNumber,Classes,Salary\n"
 
-import csv
-import logger as lg
+
 
 file = open('base_phone.csv', 'w')
 newrecord = "ID,Name,Surname,PhoneNumber,email\n"
@@ -22,11 +21,6 @@ ls_birthday = ['20.05.1984', '30.01.1993', '14.03.1976', '12.02.1987', '24.07.19
 ls_classes = ['mathematics', 'informatics', 'english language', 'physical culture', 'history',
              'social studies', 'philosophy', 'geography', 'literature']
 
-ls_e_mail = ['11111@gmail.com', '2222222@yandex.ru', '333333@mail.ru', '44444444@gmail.com', '5555555@gmail.com',
-             '666666666@mail.ru', '77777777@mail.ru', '88888888@mail.ru', '99999999@yandex.ru']
-
-
-
 def list_of_numbers():
     randomListPhone = random.randint(79000000000, 80000000000)
     return str(randomListPhone)
@@ -39,14 +33,6 @@ def list_of_salary():
 def string_creation():
     s = ""
     s = s + random.choice(ls_name) + ',' + random.choice(ls_surname) + ',' + random.choice(ls_birthday) + ',' + list_of_numbers() + ',' + random.choice(ls_classes) + ',' + list_of_salary()
-
-
-def string_creation():
-    s = ""
-    s = s + random.choice(ls_name) + ',' + random.choice(ls_surname) + ',' + list_of_numbers() + ',' + random.choice(
-        ls_e_mail)
-
-    return s
 
 
 def start():
