@@ -1,0 +1,51 @@
+ID,Name,Surname,BirthDay,PhoneNumber,Classes,Salary
+1,Roma,Kaleeva,20.05.1984,79902738625,english language,45628 
+2,Dima,Kushnir,14.03.1997,79289358363,informatics,18900 
+3,Natasha,Nebozenko,24.06.1990,79908223269,informatics,23378 
+4,Sonya,Ivanov,30.01.1993,79376689927,physical culture,26965 
+5,Roma,Nebozenko,24.07.1967,79866900486,philosophy,25527 
+6,Lina,Fomenko,12.02.1987,79483162634,english language,25367 
+7,Natasha,Usenko,30.01.1993,79258418504,history,36298 
+8,Lina,Zinchenko,24.07.1967,79576312741,geography,16615 
+9,Lana,Kaleeva,14.03.1976,79088645469,physical culture,25688 
+10,Pasha,Morozov,14.03.1997,79459138537,social studies,33905 
+11,Roma,Morozov,12.02.1987,79008082262,social studies,15668 
+12,Igor,Fomenko,24.06.1990,79821752983,literature,10705 
+13,Natasha,Kushnir,30.01.1993,79696238822,literature,11866 
+14,Lina,Kushnir,29.03.1990,79705048845,informatics,32858 
+15,Lina,Vitek,30.01.1993,79207487233,informatics,20200 
+16,Roma,Vitek,19.02.1985,79730909123,literature,18412 
+17,Natasha,Kaleeva,20.05.1984,79854655677,physical culture,30267 
+18,Kate,Fomenko,19.02.1985,79081233479,social studies,30573 
+19,Denis,Kaleeva,27.05.1997,79226542831,physical culture,33311 
+20,Sonya,Kushnir,14.03.1976,79386287505,mathematics,15152 
+21,Kate,Zinchenko,24.06.1990,79519038822,history,11826 
+22,Natasha,Zinchenko,13.05.1987,79165742673,philosophy,26620 
+23,Igor,Kaleeva,14.03.1976,79842541959,literature,43561 
+24,Anna,Kaleeva,12.02.1987,79498582757,informatics,42064 
+25,Sonya,Morozov,14.03.1997,79784681273,social studies,11852 
+26,Anna,Usenko,27.05.1997,79355353983,informatics,18066 
+27,Natasha,Nebozenko,29.03.1990,79341595078,philosophy,12274 
+28,Roma,Petrenko,14.03.1997,79752633130,history,31560 
+29,Sonya,Ivanov,14.03.1997,79744351374,literature,26288 
+30,Igor,Kushnir,13.05.1987,79356428878,literature,39117 
+31,Lana,Zinchenko,19.02.1985,79060116365,english language,41290 
+32,Sonya,Morozov,20.05.1984,79279148040,literature,41784 
+33,Anna,Fomenko,14.03.1997,79644901446,informatics,22329 
+34,Dima,Krasota,13.05.1987,79521307264,english language,45885 
+35,Sonya,Fomenko,24.07.1967,79048394343,social studies,37718 
+36,Kate,Morozov,12.02.1987,79957635857,literature,30675 
+37,Denis,Kaleeva,14.03.1997,79191165463,philosophy,33259 
+38,Igor,Vitek,24.07.1967,79112317523,mathematics,44006 
+39,Roma,Nebozenko,14.03.1997,79729465710,informatics,32845 
+40,Sonya,Petrenko,19.02.1985,79193597547,history,27604 
+41,Sonya,Usenko,29.03.1990,79969004140,philosophy,20783 
+42,Sonya,Krasota,29.03.1990,79523642542,mathematics,17456 
+43,Natasha,Vitek,24.06.1990,79100119905,social studies,13452 
+44,Kate,Ivanov,12.02.1987,79467560052,philosophy,36019 
+45,Dima,Krasota,29.03.1990,79487481947,geography,29442 
+46,Denis,Usenko,12.02.1987,79779391553,physical culture,40686 
+47,Lina,Ivanov,14.03.1976,79951617311,geography,18399 
+48,Lina,Usenko,19.02.1985,79849053244,english language,16216 
+49,Lina,Fomenko,24.07.1967,79068409543,physical culture,31765 
+50,Denis,Krasota,29.03.1990,79396890054,mathematics,20675 
